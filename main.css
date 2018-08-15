@@ -1,0 +1,69 @@
+h1 {
+    margin: 0;
+}
+
+h2 {
+    margin: 0; 
+}
+
+h3 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+.floatingObject {
+    width: 75%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    text-align: center;
+
+}
+
+
+body {
+    margin: 0; 
+    border: 0;
+}
+
+footer {
+    background-color: black;
+    color: white; 
+    margin: 0; 
+}
+.carouselSize{
+    width: 100%;
+    height: 500px; 
+}   
+
+.carusel-img {
+    height: 100vh;
+}   
+
+.personalizedCard {
+    margin-top: 5vh;
+    margin-right: 10px;
+    margin-left: 10px; 
+}
+
+.description { 
+    background-color: coral; 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 5px;
+}
+
+.progress-bar-eduardo {
+    height: 25px; 
+    font-size: 20px;
+    margin: 5px; 
+}
+
+.containingPhoto {
+    border-radius: 10px;
+}

@@ -1,0 +1,20 @@
+$blue: #3bbfce;
+$margin: 16px;
+
+.content-navigation {
+    border-color: $blue;
+    margin: $margin;
+}
+
+.table {
+    margin: $margin;
+}
+
+.funky {
+    font: {
+      family: fantasy;
+      size: 30em;
+      weight: bold;
+    }
+}
+
