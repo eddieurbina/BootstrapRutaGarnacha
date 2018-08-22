@@ -1,0 +1,56 @@
+.subtitle {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  padding: 10 px;
+}
+.title {
+    font-family: 'Roboto', sans-serif;
+  color: white;
+  padding: 10 px;
+
+}
+.background{
+  background-image: url("https://assets.fragomen.com/s3fs-public/Mexico-City_About-Us_0.jpg");
+  opacity: 1.0;
+    filter: alpha(opacity=100);
+    width: 100%;
+    height: 100%;
+}
+.fontNavBar {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  justify-content: flex-end;
+  background-color: beige;
+}
+
+.fontNavBar > li {
+ margin-right: 5%;
+ list-style: none;
+}
+.maps {
+
+}
+.maps {
+  align-content: center;
+  opacity: 0.5;
+ filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+.maps:hover {
+ opacity: 2.0;
+ filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+
+.maping {
+  align-items: flex-start;
+}
+.slides-fluid {
+  align-items: flex-end;
+}
+.col-4{
+  padding-right: 50px;
+
+ }
+ .card{
+  margin: 15px
+ }
